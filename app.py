@@ -42,6 +42,6 @@ st.write("""
 st.header("Contact")
 
 st.markdown("""
-- **Email:**m.tshibalo@gmail.com  
+- Email:tshibalo@gmail.com  
 - **LinkedIn:** [linkedin.com/in/tshibalo-0575697a](https://www.linkedin.com/in/tshibalo-0575697a)
 """)
