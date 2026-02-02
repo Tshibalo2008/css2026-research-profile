@@ -3,8 +3,7 @@
 This repository contains a simple Streamlit application showcasing my data science profile and work.
 
 ## Live Application
-https://css2026-research-profile.streamlit.app
-
+https://css2026-research-profile-9qyjivuduyggape2z4knuo.streamlit.app/
 ## About
 The app presents:
 - A brief professional profile
